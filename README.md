@@ -1,7 +1,7 @@
 # Project APEX
 ### Atomic Placement & Exponential Assembly: A Technical Framework for Solid-State Molecular Manufacturing and Kugelblitz Power Infrastructure on Mars
 
-**Author:** Hussein Monzer
+**Author:** Hussein Mo
 **Role:** Chief Systems Architect  
 **Version:** 1.0.0 (July 2026)  
 **Classification:** Open-Source Scientific Blueprint  
